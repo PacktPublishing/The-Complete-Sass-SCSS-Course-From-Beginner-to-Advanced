@@ -1,0 +1,19 @@
+// IMPORTANT: The file extension for this file must be .sublime-build 
+// but Udemy does not allow uploading files with that extension.
+// Make sure you use the correct extension.
+
+{
+
+  "cmd": ["sass", "--update", "$file:${file_path}/../css/${file_base_name}.css", "--stop-on-error", "--no-cache"],
+
+  "osx":
+  {
+      "path": "/usr/local/bin:$PATH"
+  },
+
+  "windows":
+  {
+      "shell": "true"
+  }
+
+}
