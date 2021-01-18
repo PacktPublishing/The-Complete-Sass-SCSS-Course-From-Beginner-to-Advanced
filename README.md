@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/the-complete-sass-scss-course-from-beginner-to-advanced-video/9781788625081)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # The Complete Sass & SCSS Course: From Beginner to Advanced				
 This is the code repository for [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www2.packtpub.com/web-development/complete-sass-scss-course-beginner-advanced-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
