@@ -30,7 +30,4 @@ N/A
 
 * [Modern HTML and CSS from the Beginning (Including Sass) [Video]](https://www2.packtpub.com/web-development/modern-html-and-css-beginning-including-sass-video)
 
-* [Deep Learning and Neural Networks using Python - Keras: The Complete Beginners Guide  [Video]](https://www2.packtpub.com/application-development/deep-learning-and-neural-networks-using-python-keras-complete-beginners-guid)### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788625081">https://packt.link/free-ebook/9781788625081 </a> </p>
+* [Deep Learning and Neural Networks using Python - Keras: The Complete Beginners Guide  [Video]](https://www2.packtpub.com/application-development/deep-learning-and-neural-networks-using-python-keras-complete-beginners-guid)
